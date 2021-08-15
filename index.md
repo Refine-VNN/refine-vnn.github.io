@@ -52,5 +52,5 @@ Besides hard verification problems included in our paper, here we present the co
 | | Ours | alpha-beta-CROWN | VeriNet | Oval | ERAN |
 |:-: |:----:|:------------------:|:--------:|:------------:|:-------------:|
 | | (this work) | VNN COMP 1st place | 2nd | Tied for 3rd | Tied for 3rd |
-|#verified/total | 3/20 | 1/20 | 0/20 | 0/20 | 0/20 |
+|#verified/total | 3/20 | 1/20 | 0/20 | 1/20 | 0/20 |
 
